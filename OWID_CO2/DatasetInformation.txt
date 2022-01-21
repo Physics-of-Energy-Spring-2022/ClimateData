@@ -1,0 +1,11 @@
+The CO2 and Greenhouse Gas Emissions dataset includes information about historical emissions curated by Our World in Data
+
+
+owid-co2-data.csv contains the a table of the data with rows containing yearly emissions data for a country 
+
+owid-co2-codebook.csv includes information about what each column of the dataset represents and where the data was acquired from. 
+For example, by looking in the row "methane", you can see that the methane column of owid-co2-data.csv represents 
+"Total methane emissions including land use change and forestry, measured in million tonnes of carbon dioxide-equivalents" and was obtained from data provided by 
+the "CAIT Climate Data Explorer via. Climate Watch"
+
+
